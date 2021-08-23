@@ -381,7 +381,7 @@
         <artifactId>jib-maven-plugin</artifactId>
         <configuration>
           <to>
-            <image>${jib.docker.image}:${jib.docker.tag}</image>
+            <image>registry.hub.docker.com/hartraft/${jib.docker.image}:${jib.docker.tag}</image>
           </to>
         </configuration>
       </plugin>
