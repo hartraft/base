@@ -336,6 +336,11 @@
             <artifactId>kotlin-maven-allopen</artifactId>
             <version>${kotlinVersion}</version>
           </dependency>
+          <dependency>
+            <groupId>org.jetbrains.kotlin</groupId>
+            <artifactId>kotlin-maven-noarg</artifactId>
+            <version>${kotlinVersion}</version>
+          </dependency>
         </dependencies>
       </plugin>
       <plugin>
