@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: be.hartraft
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [app-name, data, data-jpa, github-workflow-docker-registry, hibernate-validator, http-client, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-extension-functions, liquibase, logback, maven, netty-server, postgres, readme, shade, spring, spring-boot, spring-data-jpa, spring-web, testcontainers, vertx-pg-client, yaml]
