@@ -23,7 +23,7 @@
     <jib.docker.image>${project.artifactId}</jib.docker.image>
     <jib.docker.tag>${project.version}</jib.docker.tag>
     <exec.mainClass>be.hartraft.ApplicationKt</exec.mainClass>
-    <kotlinVersion>1.5.30</kotlinVersion>
+    <kotlinVersion>1.6.0</kotlinVersion>
     <micronaut.runtime>netty</micronaut.runtime>
   </properties>
 
